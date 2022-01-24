@@ -16,7 +16,7 @@ namespace ClientAppplication
             InsertRecord().Wait();
             EditRecord(5).Wait();
             DeleteRecord(1).Wait();
-         }
+        }
         static async Task GetAllStudents()
         {
             var client = new HttpClient();
@@ -37,6 +37,8 @@ namespace ClientAppplication
             }
             else
             {
+                Console.WriteLine(  "NO Records");
+                Console.WriteLine(response.StatusCode);
                 Console.WriteLine(response.ReasonPhrase);
                 Console.WriteLine("Some Error occurred");
             }

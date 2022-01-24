@@ -62,3 +62,9 @@ C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\obj\
 C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\obj\Debug\netcoreapp3.1\PersisentStudentWebApi.dll
 C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\obj\Debug\netcoreapp3.1\PersisentStudentWebApi.pdb
 C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\obj\Debug\netcoreapp3.1\PersisentStudentWebApi.genruntimeconfig.cache
+C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\obj\Debug\netcoreapp3.1\PersisentStudentWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anamika\source\repos\PersisentStudentWebApi\PersisentStudentWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

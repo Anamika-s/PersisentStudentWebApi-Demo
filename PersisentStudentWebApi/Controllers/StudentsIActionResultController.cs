@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PersisentStudentWebApi.Models;
 using System;
@@ -10,6 +11,7 @@ namespace PersisentStudentWebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class Students1Controller : ControllerBase
     {
         StudentDbContext _context;
@@ -39,6 +41,7 @@ namespace PersisentStudentWebApi.Controllers
         }
 
         [HttpPost]
+        
         public IActionResult Post(Student student)
         {
             if (ModelState.IsValid)
